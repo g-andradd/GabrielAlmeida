@@ -1,26 +1,27 @@
 # Hi! I'm Gabriel Almeida! 👋🏿
 
-### :tada: About Me
+Welcome to my GitHub profile! I'm Gabriel Almeida, a software engineering student with a passion for technology. I love exploring new technologies and learning about different programming languages. Sports and esports also have a special place in my heart. :computer:🎮:basketball:
 
-- :ledger: Software engineering student
-- :computer: Fascinated about technology
-- :basketball: Lover of sports and esports 🎮
-
-### :eyes: What I am doing currently
-
+## What I'm currently up to
 - :bookmark_tabs: I’m studying Java, PHP and Python
 - :pencil2: I’m working on [Sortech](https://sortech.com.br/)
 - :gear: I’m learning Clean Architecture
 
-### :mailbox_with_mail: Find me and get in touch
-
+## Get in touch
 <div>
   <a href="https://github.com/g-andradd">
   <a href = "mailto:gabrielandraad@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-andrade-almeida/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  </div>
+</div>
   
-  ##                                                                                                                                                
+  ## GitHub Stats
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=g-andradd&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g-andradd&layout=compact&langs_count=7&theme=dark"/>
+</div>
+  
+  ## GitHub Stats
+  ### Here are some of the technologies and tools I work with:
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Gabriel-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="Gabriel-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
@@ -37,4 +38,4 @@
   <img align="center" alt="Gabriel-PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
 </div>
                                                                                                                                                  
-
+### Feel free to explore my repositories and don't hesitate to reach out if you have any questions or collaborations in mind. Happy coding! 🚀
