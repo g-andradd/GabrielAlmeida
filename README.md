@@ -3,9 +3,9 @@
 Welcome to my GitHub profile! I'm Gabriel Almeida, a software engineering student with a passion for technology. I love exploring new technologies and learning about different programming languages. Sports and esports also have a special place in my heart. :computer:🎮:basketball:
 
 ## What I'm currently up to
-- :bookmark_tabs: I’m studying Java, PHP and Python
+- :bookmark_tabs: Studying Java, PHP, Python and English
 - :pencil2: I’m working on [Sortech](https://sortech.com.br/)
-- :gear: I’m learning Clean Architecture
+- :gear: Learning Clean Architecture principles
 
 ## Get in touch
 <div>
