@@ -1,37 +1,46 @@
-# Hi! I'm Gabriel Almeida! 👋🏿
+<img width=100% src="https://capsule-render.vercel.app/api?type=slice&section=header"/>
 
-Welcome to my GitHub profile! I'm Gabriel Almeida, a software engineering student with a passion for technology. I love exploring new technologies and learning about different programming languages. Sports and esports also have a special place in my heart. :computer:🎮:basketball:
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Kanit&size=30&duration=3500&pause=1000&width=435&lines=Hi!+Welcome+to+my+GitHub+profile!;I'm+Gabriel+Almeida+%F0%9F%91%8B%F0%9F%8F%BF;A+software+engineering+student;And+Full+Stack+Developer" alt="Typing SVG" /></a>
+</div>
+<br>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=g-andradd&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g-andradd&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
-## What I'm currently up to
-- :bookmark_tabs: Studying Java, PHP, Python and English
-- :pencil2: I’m working on [Sortech](https://sortech.com.br/)
-- :gear: Learning Clean Architecture principles
+  ## Here are some of the technologies and tools I work with:
+  
+ ### Languages
+<div>
+  <img alt="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg" width="40" height="40" style="margin-right: 10px">
+  <img alt="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="40" height="40" style="margin-right: 10px">
+  <img alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" style="margin-right: 10px">
+  <img alt="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40">
+</div>
 
+
+### Frameworks
+<div>
+  <img alt="Spring" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" style="margin-right: 10px">
+  <img alt="Angular" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" width="40" height="40">
+</div>
+
+<div>
+  <h3>Databases</h3>
+  <img alt="Oracle SQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" height="40" style="margin-right: 10px">
+  <img alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" style="margin-right: 10px">
+  <img alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40">
+</div>
+  
 ## Get in touch
 <div>
   <a href="https://github.com/g-andradd">
   <a href = "mailto:gabrielandraad@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-andrade-almeida/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-  
-  ## GitHub Stats
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=g-andradd&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g-andradd&layout=compact&langs_count=7&theme=dark"/>
-</div>
-  
-  ## GitHub Stats
-  ### Here are some of the technologies and tools I work with:
-<div style="display: inline_block" align="center"><br>
-  <img align="center" alt="Gabriel-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img align="center" alt="Gabriel-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-  <img align="center" alt="Gabriel-PHP" height="30" width="40"src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/php/php-plain.svg" />
-  <img align="center" alt="Gabriel-Angular" height="30" width="40"src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/angularjs/angularjs-plain.svg" />
-  <img align="center" alt="Gabriel-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Gabriel-TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Gabriel-OracleSql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"/>
-  <img align="center" alt="Gabriel-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-  <img align="center" alt="Gabriel-PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
-</div>
                                                                                                                                                  
 ### Feel free to explore my repositories and don't hesitate to reach out if you have any questions or collaborations in mind. Happy coding! 🚀
+<br>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=slice&section=footer"/>
