@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=slice&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=120&section=header"/>
 <br>
 
 <div align="center">
@@ -44,4 +44,4 @@
 ### Feel free to explore my repositories and don't hesitate to reach out if you have any questions or collaborations in mind. Happy coding! 🚀
 <br>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=slice&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=120&section=footer"/>
